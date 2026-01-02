@@ -4,7 +4,7 @@ import Footer from './components/Footer';
 import SearchBar from './components/SearchBar';
 import WeatherCard from './components/WeatherCard';
 import Forecast from './components/Forecast';
-import WorldGlobe from './components/WorldGlobe'; // المكون الجديد
+import WorldGlobe from './components/WorldGlobe'; 
 import ErrorView from './components/ErrorView';
 import LoadingSpinner from './components/LoadingSpinner';
 
